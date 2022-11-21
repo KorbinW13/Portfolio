@@ -1,0 +1,70 @@
+
+TryIt#6: Frequency analysis. 
+Frequency analysis is the process of determining how frequently a letter appears in plaintexts and in ciphertexts is called frequency analysis.
+Understanding frequency analysis … more in here: https://en.wikipedia.org/wiki/Frequency_analysis
+
+
+
+Topics: lists, While loop,functions, Control Flow: if, else statements, strings and char processing 
+Due Date: Friday November 5 at 11:59 pm
+Points: 30 
+
+
+
+What to add. 
+Currently the code only processes lower case letters. 
+Add symbols for space ‘  ‘, comma ‘,’ and period ‘.’     (3 points) 
+Print the total number of frequencies of all of the alphabets  (3 points) 
+Write a function to convert upper case letters to lower case letters. Allow the code to accept both upper and lower case letters but you can treat them equally so you can 
+convert the uppercase to lowercase before processing (5 points) 
+Write a function to Calculate and print the percentage of each frequency showing as two decimal places ( 5 points) 
+Describe the common use of frequency analysis in cyber security applications (4 points)  
+
+ 
+The input is embedded inside the code which is: 
+ 
+Oklahoma is a state in the South Central and Southern\
+Plains region of the United States, bordered by the state of Texas on the south \
+and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, \
+New Mexico on the west, and Colorado on the northwest.
+
+
+
+
+
+Sample Input/ Output:
+
+letter 	 	freq 	  %
+a	 	  20	  7.49
+b	 	  2	  0.75
+ c	 	  3	  1.12
+ d	 	  7	  2.62
+ e	 	  26	  9.74
+ f	 	  2	  0.75
+ g	 	  1	  0.37
+ h	 	  16	  5.99
+ i	 	  8	  3.00
+ j	 	  0	  0.00
+ k	 	  3	  1.12
+ l	 	  4	  1.50
+ m	 	  3	  1.12
+ n	 	  21	  7.87
+ o	 	  23	  8.61
+ p	 	  1	  0.37
+ q	 	  0	  0.00
+ r	 	  11	  4.12
+ s	 	  21	  7.87
+ t	 	  29	  10.86
+ u	 	  5	  1.87
+ v	 	  0	  0.00
+ w	 	  4	  1.50
+ x	 	  2	  0.75
+ y	 	  1	  0.37
+ z	 	  0	  0.00
+  	 	  47	  17.60
+ ,	 	  6	  2.25
+ .	 	  1	  0.37
+Total Number of symbols count 267.0
+
+
+"

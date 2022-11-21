@@ -1,0 +1,12 @@
+Apple
+Banana
+Student
+Teacher
+Course
+Words
+Computer
+Python
+Dollar
+Cents
+Dimes
+University
